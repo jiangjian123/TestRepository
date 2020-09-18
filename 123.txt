@@ -1,4 +1,0 @@
-goodid
-happynewyear
-李罗良
-new String()
